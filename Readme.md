@@ -27,7 +27,7 @@ pip install aiohttp pyyaml rich fake-useragent
 
 ## 2. Configure Bots
 
-Edit bots.json:
+Edit bots.json: [ ⚠️ USE MINIMUM 10-15 BOTS ] 
 
 ```json
 {

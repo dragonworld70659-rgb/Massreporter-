@@ -1,0 +1,6 @@
+cd Massreporter-
+# Copy all 5 files above
+
+git add .
+git commit -m "v2.0 - Free proxies + 99% freeze engine"
+git push origin main

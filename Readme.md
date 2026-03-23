@@ -38,6 +38,20 @@ Edit bots.json: [ ⚠️ USE MINIMUM 10-15 BOTS ]
 }
 ```
 
+Edit config.yaml : [ Fill You Target Username or Userid🎯]
+
+```yaml
+proxies: []
+targets:
+  - "@premium_target"
+  - "@nft_fragment_user"
+reports_per_target: 3000
+delay_min: 0.5
+delay_max: 1.5
+bots_file: "bots.json"
+```
+
+
 ## 3. Run the Bot
 
 ```bash

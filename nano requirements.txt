@@ -1,0 +1,6 @@
+telethon
+pyrogram
+tgcrypto
+pyyaml
+requests
+
